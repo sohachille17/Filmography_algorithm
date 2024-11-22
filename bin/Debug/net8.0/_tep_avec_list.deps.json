@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_tep_avec_list/1.0.0": {
+        "runtime": {
+          "_tep_avec_list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_tep_avec_list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
